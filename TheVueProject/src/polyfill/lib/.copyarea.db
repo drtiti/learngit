@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\cv_crms_code\code_g\crms-vue\src\polyfill\lib
+2
+5
+9:String.js|1|15d53942655|c40|a0ee66dc|4d9486e26b6111e7807e0002f61ac54c|0
+e:HTMLElement.js|1|15d5fbab5d1|541|0|f369a0286d4b11e780330002f61ac54c|0
+9:Object.js|1|15d21465199|b0|0|a0393c8864b411e7800e0002f61ac54c|0
+7:Date.js|1|15d60145fb9|769|ed559f33|6c4393b06d4911e7806c0002f61ac54c|0
+8:Array.js|1|15d27c84114|76c|8acb60c1|6524976662cc11e7803b0002f61ac54c|0

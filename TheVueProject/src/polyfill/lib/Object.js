@@ -1,0 +1,3 @@
+// Object polyfill file for crms coder...
+// Do not use '=>' in this file because 'this' will not point to the object who is using it.
+/* eslint-disable no-extend-native */
