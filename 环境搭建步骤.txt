@@ -1,0 +1,13 @@
+前端：
+1.安装nodejs
+2.打开项目，在terminal里 输入 npm install
+3.修改配置，config/index.js，port参数
+4.输入命令 npm run dev
+后台：
+1.项目右键：选择maven->update project,选择force打头的选下和其他。
+2.右键项目，选择properties->deployment assembly-》add->java build path entry->maven xxxx
+3.jdbc.properties文件数据库配置，control+shift+r，搜索该文件。
+4.编译项目,项目右键，run as ->maven build->goals参数输入compile。
+5.编译完成后，项目右键点击refresh。服务器右键点publish，再点击debug。
+
+tomcat8.5,jdk8
